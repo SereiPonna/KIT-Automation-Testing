@@ -1,0 +1,5 @@
+projectKey=selenium:automated:testing
+serverUrl=http://localhost:9000
+dashboardUrl=http://localhost:9000/dashboard/index/selenium:automated:testing
+ceTaskId=AVm1KsPDQ6j-hKtat7W_
+ceTaskUrl=http://localhost:9000/api/ce/task?id=AVm1KsPDQ6j-hKtat7W_
