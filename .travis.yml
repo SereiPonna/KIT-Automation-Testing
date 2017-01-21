@@ -11,7 +11,7 @@ addons:
 jdk:
   - oraclejdk8
 script:
-  - sonar-scanner
+  - ant build
 cache:
   directories:
     - '$HOME/.sonar/cache'
