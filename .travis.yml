@@ -11,7 +11,7 @@ addons:
 jdk:
   - oraclejdk8
 script:
-  - sonar-runner
+  - sonar-runner -X
 cache:
   directories:
     - '$HOME/.sonar/cache'
